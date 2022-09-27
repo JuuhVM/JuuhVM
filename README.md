@@ -1,11 +1,11 @@
 ### Olá, eu sou a Juliana Viana Martins 👋
 
-- 🔭 Hoje sou Assistente de Projetos
-- 👨‍🎓 8° Periodo em Ciências Econômicas
-- 🌱 Estudando SQL/PowerBI/Python
-- 💬 Falo sobre #economia, #inovacao, #datascience, #analisededados e #sustentabilidade
-- 📫 Contate-me no e-mail: jumia-72@hotmail.com
-- 😄 Ela/Dela
+- 🔭 Looking for an opportunity >>> Data Analyst Jr
+- 👨‍🎓 8th Period in Economic Sciences
+- 🌱 Studying SQL/PowerBI/Python
+- 💬 I talk about #economics, #innovation, #datascience, #data analysis and #sustainability
+- 📫 Contact us by email: jumia-72@hotmail.com
+- 😄 She/Her
 
 <div align="center">
 <a href="https://github.com/JuuhVM">
