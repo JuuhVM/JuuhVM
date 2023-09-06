@@ -1,8 +1,8 @@
-### Olá, eu sou a Juliana Viana Martins 👋
+### Hello, I'm Juliana Viana Martins - Brazilian - Belo Horizonte-MG 👋
 
 - 🔭 Looking for an opportunity >>> Data Analyst Jr
-- 👨‍🎓 8th Period in Economic Sciences
-- 🌱 Studying SQL/PowerBI/Python
+- 👨‍🎓 Graduated in Economic Sciences 2022.2
+- 🌱 Studying SQL/PowerBI/Python/R
 - 💬 I talk about #economics, #innovation, #datascience, #data analysis and #sustainability
 - 📫 Contact us by email: jumia-72@hotmail.com
 - 😄 She/Her
